@@ -1,7 +1,7 @@
 # будут игнорироваться все файлы и каталоги Thumbs.db и .DS_Store
 Tumbs.db
 .DS_Store
-__MACOSX
+
 
 # будет игнорироваться каталог tmp
 tmp/
